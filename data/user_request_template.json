@@ -1,0 +1,10 @@
+{
+    "user_request": {
+        "name": -1,
+        "mobile": -1,
+        "budget": -1,
+        "org_place": -1,
+        "des_place": -1,
+        "str_date": -1
+    }
+}

@@ -1,0 +1,133 @@
+{
+  "Flight": [{
+      "id": 12940293,
+      "brand": "Vietjet",
+      "org_city": "sai gon",
+      "des_city": "ha noi",
+      "available_seat": 20,
+      "duration": "51 min",
+      "arrival": {
+        "hour": 10,
+        "year": 2018,
+        "day": 24,
+        "min": 51,
+        "month": 12
+      },
+      "departure": {
+        "hour": 9,
+        "year": 2018,
+        "day": 24,
+        "min": 55,
+        "month": 12
+      },
+      "ticket_price": {
+        "Economic": 2340000,
+        "Normal": 1200000
+      }
+    },
+    {
+      "id": 3239203,
+      "brand": "Vietjet",
+      "org_city": "sai gon",
+      "des_city": "da nang",
+      "available_seat": 32,
+      "duration": "40 min",
+      "arrival": {
+        "hour": 8,
+        "year": 2018,
+        "day": 24,
+        "min": 51,
+        "month": 12
+      },
+      "departure": {
+        "hour": 8,
+        "year": 2018,
+        "day": 24,
+        "min": 12,
+        "month": 12
+      },
+      "ticket_price": {
+        "Economic": 1200000,
+        "Normal": 682000
+      }
+    },
+    {
+      "id": 30294802,
+      "brand": "vietnam airline",
+      "org_city": "sai gon",
+      "des_city": "ha noi",
+      "available_seat": 18,
+      "duration": "50 min",
+      "arrival": {
+        "hour": 0,
+        "year": 2018,
+        "day": 12,
+        "min": 41,
+        "month": 12
+      },
+      "departure": {
+        "hour": 23,
+        "year": 2018,
+        "day": 13,
+        "min": 51,
+        "month": 12
+      },
+      "ticket_price": {
+        "Economic": 2970000,
+        "Normal": 1700000
+      }
+    },
+    {
+      "id": 34093098,
+      "brand": "Vietjet",
+      "org_city": "ha noi",
+      "des_city": "sai gon",
+      "available_seat": 60,
+      "duration": "1 hour 10 min",
+      "arrival": {
+        "hour": 18,
+        "year": 2018,
+        "day": 16,
+        "min": 45,
+        "month": 12
+      },
+      "departure": {
+        "hour": 16,
+        "year": 2018,
+        "day": 16,
+        "min": 35,
+        "month": 12
+      },
+      "ticket_price": {
+        "Economic": 2600040,
+        "Normal": 1304900
+      }
+    },
+    {
+      "id": 3490384,
+      "brand": "Vietjet",
+      "org_city": "Ha Noi",
+      "des_city": "Hai Phong",
+      "available_seat": 12,
+      "duration": "30 min",
+      "arrival": {
+        "hour": 17,
+        "year": 2018,
+        "day": 23,
+        "min": 45,
+        "month": 9
+      },
+      "departure": {
+        "hour": 17,
+        "year": 2018,
+        "day": 23,
+        "min": 13,
+        "month": 9
+      },
+      "ticket_price": {
+        "Economic": 1240000,
+        "Normal": 740000
+      }
+    }
+  ]
+}
